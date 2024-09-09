@@ -14,21 +14,21 @@ building regulations to generate customized floor plans
 
 ## 🌟 Dataset Sample Images:
 
-![Dataset](dataset.PNG)
+![Dataset](screenshots\dataset.PNG)
 
 ## ✨ Screenshots of Web-application:
 
 Home Page
-![HomePage](webapphome.PNG)
+![HomePage](screenshots\webapphome.PNG)
 
 Sign-up Page
-![SignupPage](signup.PNG)
+![SignupPage](screenshots\signup.PNG)
 
 Login Page
-![LoginPage](login.PNG)
+![LoginPage](screenshots\login.PNG)
 
 Generate Page
-![Generate Page](generate_page.PNG)
+![Generate Page](screenshots\generate_page.PNG)
 
 ## 📖 References:
 1. Images Dataset: ([lianjia.com](https://tj.fang.lianjia.com/loupan/pg1/))
