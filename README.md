@@ -19,16 +19,16 @@ building regulations to generate customized floor plans
 ## ✨ Screenshots of Web-application:
 
 Home Page
-![HomePage](https://github.com/iamvatsalpanchal/plan-brainer/blob/main/screenshots\webapphome.PNG)
+![HomePage](https://github.com/iamvatsalpanchal/plan-brainer/blob/main/screenshots/webapphome.PNG)
 
 Sign-up Page
-![SignupPage](https://github.com/iamvatsalpanchal/plan-brainer/blob/main/screenshots\signup.PNG)
+![SignupPage](https://github.com/iamvatsalpanchal/plan-brainer/blob/main/screenshots/signup.PNG)
 
 Login Page
-![LoginPage](https://github.com/iamvatsalpanchal/plan-brainer/blob/main/screenshots\login.PNG)
+![LoginPage](https://github.com/iamvatsalpanchal/plan-brainer/blob/main/screenshots/login.PNG)
 
 Generate Page
-![Generate Page](https://github.com/iamvatsalpanchal/plan-brainer/blob/main/screenshots\generate_page.PNG)
+![Generate Page](https://github.com/iamvatsalpanchal/plan-brainer/blob/main/screenshots/generate_page.PNG)
 
 ## 📖 References:
 1. Images Dataset: ([lianjia.com](https://tj.fang.lianjia.com/loupan/pg1/))
